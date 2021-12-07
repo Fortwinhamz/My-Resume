@@ -1,2 +1,2 @@
 # My Resume
-I created my Resune using just HTML and CSS only
+I created my Resume using just HTML and CSS only
